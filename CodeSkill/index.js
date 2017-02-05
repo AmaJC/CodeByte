@@ -4,14 +4,21 @@
  */
 var questions = [
     {
-        "Question Template?": [
-            "Answer",
+        "Which Object Oriented Programming principle focuses on hiding all but the relevant data of an object to " +
+        "reduce complexity and increase efficiency?": [
+            "Abstraction",
         ]
     },
-
     {
-        "Question Template?": [
-            "Answer",
+        "Which Object Oriented Programming principle focuses on allowing classes to have different functionality " + 
+        "while sharing a common interface?": [
+            "Polymorphism",
+        ]
+    },
+    {
+        "Which Object Oriented Programming principle focuses on making class fields or attributes private " + 
+        "to prevent the data from being unexpectedly modified or accessed from outside the class?": [
+            "Encapsulation",
         ]
     }
 ];
