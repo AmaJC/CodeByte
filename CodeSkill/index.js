@@ -16,17 +16,6 @@ var questions = [
         ]
     },
     {
-        "Which Object Oriented Programming principle focuses on allowing subclasses to have access to methods " + 
-        "and attributes of a parent class?": [
-            "Inheritance",
-        ]
-    },
-    {
-        "What is today's most widely used distributed version control system?" : [
-            "Github",
-        ]
-    },
-    {
         "Which Object Oriented Programming principle focuses on making class fields or attributes private " + 
         "to prevent the data from being unexpectedly modified or accessed from outside the class?": [
             "Encapsulation",
